@@ -1,0 +1,29 @@
+header {
+
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: space-around;
+  
+    img {
+      height: 64px;
+      margin-left: -30px;
+    }
+  
+    nav{
+      ul {
+      display: flex;
+      list-style: none;
+      color: black;
+      gap: 160px;
+      font-size: 18px;
+      font-family: "Kanit", sans-serif;
+      padding-top: 15px;
+      text-decoration: none;
+      margin-right: 130px;
+      }
+   } 
+
+    }
+
+    

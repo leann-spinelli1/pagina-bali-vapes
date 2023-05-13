@@ -1,0 +1,105 @@
+body {
+    .section-info{
+        display:flex;
+        align-items: center;
+        flex-direction: column;
+        
+        
+    
+    }
+    
+    .bali-png{
+        display:flex;
+        justify-content: center;
+        
+        
+    }
+    
+    
+    .carousel-item img {
+      height: 100%;
+      width: 100%;
+      object-fit: contain;
+      margin-top: 5rem;
+    }
+
+    main {
+        .container-text{
+            display:flex;
+            margin-top: 5rem;
+            flex-direction: column;
+            font-size: 24px;
+            justify-content: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            width: 100%;
+            max-width: 1200px;
+            
+        
+        }
+
+        .contenedor-modelos {
+          display: flex;
+          margin-left: 1rem;
+          gap: 2rem;
+        
+        }
+        
+        .modelo-1 {
+          width: 20rem;
+          margin-top: 5rem;
+          margin-bottom: 5rem;
+          margin-right: 2rem;
+          img {
+            display: flex;
+            margin-left: 7rem;
+            margin-bottom: 1rem;
+          }
+          p {
+            display: flex;
+            color: black;
+            border-color: chocolate;
+            font-family: 'Kanit', sans-serif;
+          }
+        }
+        
+
+        .modelo-2 {
+          width: 20rem;
+          margin-top: 5rem;
+          margin-bottom: 5rem;
+          margin-right: 2rem;
+          img {
+            display: flex;
+            margin-left: 8rem;
+            margin-bottom: 1rem;
+          }
+          p {
+            display: flex;
+            color: black;
+            border-color: chocolate;
+            font-family: 'Kanit', sans-serif;
+          }
+
+        }
+       
+        .modelo-3 {
+          width: 20rem;
+          margin-top: 5rem;
+          margin-bottom: 5rem;
+          margin-right: 2rem;
+          img {
+            display: flex;
+            margin-left: 4rem;
+            margin-bottom: 1rem;
+          }
+          p {
+            display: flex;
+            color: black;
+            border-color: chocolate;
+            font-family: 'Kanit', sans-serif;
+          }
+
+        }
+                
+    }
+}

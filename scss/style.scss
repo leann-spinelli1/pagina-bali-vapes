@@ -1,0 +1,16 @@
+@import 'Partials/reset';
+@import 'Partials/header';
+@import 'Partials/variables';
+@import 'Partials/mediaquerys';
+@import 'Partials/main';
+@import 'Partials/footer';
+@import 'partials/wholesale';
+@import 'partials/contacto';
+@import 'partials/galeria';
+
+.contenedor-texto-sabores {
+    display:flex;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5rem;
+    justify-content: center;
+  }

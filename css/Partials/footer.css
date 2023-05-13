@@ -1,0 +1,24 @@
+footer {
+  display: flex;
+  background-color: aliceblue;
+  justify-content: center;
+  width: 100%;
+  height: 50px;
+  max-width: 100%;
+  min-height: 5vh;
+  flex-shrink: 0;
+}
+footer p {
+  display: flex;
+  float: left;
+  margin-top: 15px;
+}
+
+a img {
+  display: flex;
+  height: 1.7rem;
+  margin-top: 0.9rem;
+  margin-left: 0.8rem;
+}
+
+/*# sourceMappingURL=footer.css.map */
